@@ -5,3 +5,31 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+.box {
+    border: none;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    height: 200px;
+    object-fit: cover;
+  }
+
+.order {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
